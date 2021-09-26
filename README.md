@@ -8,8 +8,6 @@ Analysis and visualization of ride-sharing and weekly fares data collected 1/1/2
 
 #### Data Summary
 
-![PyBer Summary](/Resources/DataFrame_Pyber_Summary.png)
-
 The rides/fares data summary shows...
 - Total Rides:  Urban cities outpace the other categories significantly in total number of rides, with more than two (2) times the number of rides in Suburban cities and more than ten (10) times the number of rides in Rural cities.
 - Total Drivers:  As with Total Rides, there were significantly more drivers available in Urban cities relative to those available in Suburban and Rural cities.
